@@ -2,3 +2,6 @@
 .gitignore
 *.md
 !README.md
+tmp/
+icon.svg
+*.vsix

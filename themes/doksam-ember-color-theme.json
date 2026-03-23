@@ -4,25 +4,25 @@
   "type": "light",
   "colors": {
     // ── 에디터 ──
-    "editor.background": "#FAF9F6",
-    "editor.foreground": "#1A1915",
-    "editor.lineHighlightBackground": "#F3F1EC",
-    "editor.selectionBackground": "#E5DDD1",
-    "editor.selectionHighlightBackground": "#EAE4DA",
-    "editor.wordHighlightBackground": "#E5DDD180",
+    "editor.background": "#F5F0E8",
+    "editor.foreground": "#2D2B26",
+    "editor.lineHighlightBackground": "#EDE8DF",
+    "editor.selectionBackground": "#DED6C8",
+    "editor.selectionHighlightBackground": "#E4DDD0",
+    "editor.wordHighlightBackground": "#DED6C880",
     "editor.findMatchBackground": "#D9775750",
     "editor.findMatchHighlightBackground": "#D9775730",
     "editorCursor.foreground": "#D97757",
-    "editorLineNumber.foreground": "#B5AFA5",
-    "editorLineNumber.activeForeground": "#7A746A",
-    "editorIndentGuide.background1": "#E8E4DD",
-    "editorIndentGuide.activeBackground1": "#CFC8BC",
-    "editorBracketMatch.background": "#E5DDD150",
+    "editorLineNumber.foreground": "#B5AEA2",
+    "editorLineNumber.activeForeground": "#78736A",
+    "editorIndentGuide.background1": "#E2DCD2",
+    "editorIndentGuide.activeBackground1": "#CBC4B8",
+    "editorBracketMatch.background": "#DED6C850",
     "editorBracketMatch.border": "#D97757",
-    "editorGroup.border": "#E3DFD8",
-    "editorWhitespace.foreground": "#DDD9D140",
-    "editorRuler.foreground": "#E8E4DD",
-    "editorOverviewRuler.border": "#E3DFD8",
+    "editorGroup.border": "#DDD8CE",
+    "editorWhitespace.foreground": "#D8D2C840",
+    "editorRuler.foreground": "#E2DCD2",
+    "editorOverviewRuler.border": "#DDD8CE",
     "editorGutter.addedBackground": "#7A8E5490",
     "editorGutter.modifiedBackground": "#D9775790",
     "editorGutter.deletedBackground": "#C0453590",
@@ -31,86 +31,86 @@
     "editorInfo.foreground": "#5A7E8E",
 
     // ── 사이드바 ──
-    "sideBar.background": "#EEECE7",
-    "sideBar.foreground": "#3D3935",
-    "sideBar.border": "#E3DFD8",
-    "sideBarTitle.foreground": "#5C5650",
-    "sideBarSectionHeader.background": "#E6E3DC",
-    "sideBarSectionHeader.foreground": "#5C5650",
+    "sideBar.background": "#EAE5DB",
+    "sideBar.foreground": "#3D3A34",
+    "sideBar.border": "#DDD8CE",
+    "sideBarTitle.foreground": "#5C5852",
+    "sideBarSectionHeader.background": "#E2DDD3",
+    "sideBarSectionHeader.foreground": "#5C5852",
 
     // ── 액티비티 바 ──
-    "activityBar.background": "#E6E3DC",
+    "activityBar.background": "#E2DDD3",
     "activityBar.foreground": "#D97757",
-    "activityBar.inactiveForeground": "#A39D93",
-    "activityBar.border": "#E3DFD8",
+    "activityBar.inactiveForeground": "#A29C92",
+    "activityBar.border": "#DDD8CE",
     "activityBarBadge.background": "#D97757",
     "activityBarBadge.foreground": "#FFFFFF",
 
     // ── 타이틀 바 ──
-    "titleBar.activeBackground": "#EEECE7",
-    "titleBar.activeForeground": "#3D3935",
-    "titleBar.inactiveBackground": "#EEECE7",
-    "titleBar.inactiveForeground": "#A39D93",
-    "titleBar.border": "#E3DFD8",
+    "titleBar.activeBackground": "#EAE5DB",
+    "titleBar.activeForeground": "#3D3A34",
+    "titleBar.inactiveBackground": "#EAE5DB",
+    "titleBar.inactiveForeground": "#A29C92",
+    "titleBar.border": "#DDD8CE",
 
     // ── 탭 ──
-    "tab.activeBackground": "#FAF9F6",
-    "tab.activeForeground": "#1A1915",
-    "tab.inactiveBackground": "#F0EDE8",
-    "tab.inactiveForeground": "#7A746A",
+    "tab.activeBackground": "#F5F0E8",
+    "tab.activeForeground": "#2D2B26",
+    "tab.inactiveBackground": "#ECE7DE",
+    "tab.inactiveForeground": "#78736A",
     "tab.activeBorderTop": "#D97757",
-    "tab.border": "#E3DFD8",
-    "tab.hoverBackground": "#F5F3EE",
-    "editorGroupHeader.tabsBackground": "#F0EDE8",
-    "editorGroupHeader.tabsBorder": "#E3DFD8",
+    "tab.border": "#DDD8CE",
+    "tab.hoverBackground": "#F0ECE3",
+    "editorGroupHeader.tabsBackground": "#ECE7DE",
+    "editorGroupHeader.tabsBorder": "#DDD8CE",
 
     // ── 패널 (터미널 등) ──
-    "panel.background": "#F5F3EE",
-    "panel.border": "#E3DFD8",
+    "panel.background": "#F0ECE3",
+    "panel.border": "#DDD8CE",
     "panelTitle.activeBorder": "#D97757",
-    "panelTitle.activeForeground": "#3D3935",
-    "panelTitle.inactiveForeground": "#A39D93",
-    "terminal.background": "#F5F3EE",
-    "terminal.foreground": "#1A1915",
-    "terminal.ansiBlack": "#3D3935",
+    "panelTitle.activeForeground": "#3D3A34",
+    "panelTitle.inactiveForeground": "#A29C92",
+    "terminal.background": "#F0ECE3",
+    "terminal.foreground": "#2D2B26",
+    "terminal.ansiBlack": "#3D3A34",
     "terminal.ansiRed": "#C04535",
     "terminal.ansiGreen": "#6B8E4A",
     "terminal.ansiYellow": "#C28B3A",
     "terminal.ansiBlue": "#5A7E8E",
     "terminal.ansiMagenta": "#8E6E99",
     "terminal.ansiCyan": "#4D8E8E",
-    "terminal.ansiWhite": "#E8E4DD",
-    "terminal.ansiBrightBlack": "#7A746A",
+    "terminal.ansiWhite": "#E8E3D9",
+    "terminal.ansiBrightBlack": "#78736A",
     "terminal.ansiBrightRed": "#D97757",
     "terminal.ansiBrightGreen": "#7A9E5A",
     "terminal.ansiBrightYellow": "#D9A04A",
     "terminal.ansiBrightBlue": "#6A8E9E",
     "terminal.ansiBrightMagenta": "#9E7EAA",
     "terminal.ansiBrightCyan": "#5A9E9E",
-    "terminal.ansiBrightWhite": "#FAF9F6",
+    "terminal.ansiBrightWhite": "#F5F0E8",
 
     // ── 상태 바 ──
-    "statusBar.background": "#E6E3DC",
-    "statusBar.foreground": "#5C5650",
-    "statusBar.border": "#E3DFD8",
+    "statusBar.background": "#E2DDD3",
+    "statusBar.foreground": "#5C5852",
+    "statusBar.border": "#DDD8CE",
     "statusBar.debuggingBackground": "#D97757",
     "statusBar.debuggingForeground": "#FFFFFF",
-    "statusBar.noFolderBackground": "#E3DFD8",
+    "statusBar.noFolderBackground": "#DDD8CE",
 
     // ── 입력 / 드롭다운 ──
-    "input.background": "#FFFFFF",
-    "input.border": "#DDD9D1",
-    "input.foreground": "#1A1915",
-    "input.placeholderForeground": "#B5AFA5",
-    "dropdown.background": "#FAF9F6",
-    "dropdown.border": "#DDD9D1",
-    "dropdown.foreground": "#1A1915",
+    "input.background": "#FAF8F4",
+    "input.border": "#D8D2C8",
+    "input.foreground": "#2D2B26",
+    "input.placeholderForeground": "#B5AEA2",
+    "dropdown.background": "#F5F0E8",
+    "dropdown.border": "#D8D2C8",
+    "dropdown.foreground": "#2D2B26",
 
     // ── 리스트 ──
-    "list.activeSelectionBackground": "#E5DDD1",
-    "list.activeSelectionForeground": "#1A1915",
-    "list.hoverBackground": "#F0EDE8",
-    "list.inactiveSelectionBackground": "#EAE4DA",
+    "list.activeSelectionBackground": "#DED6C8",
+    "list.activeSelectionForeground": "#2D2B26",
+    "list.hoverBackground": "#ECE7DE",
+    "list.inactiveSelectionBackground": "#E4DDD0",
     "list.highlightForeground": "#D97757",
     "list.focusOutline": "#D9775780",
 
@@ -118,63 +118,63 @@
     "button.background": "#D97757",
     "button.foreground": "#FFFFFF",
     "button.hoverBackground": "#C96847",
-    "button.secondaryBackground": "#E6E3DC",
-    "button.secondaryForeground": "#3D3935",
-    "button.secondaryHoverBackground": "#DDD9D1",
+    "button.secondaryBackground": "#E2DDD3",
+    "button.secondaryForeground": "#3D3A34",
+    "button.secondaryHoverBackground": "#D8D2C8",
 
     // ── 스크롤바 ──
-    "scrollbarSlider.background": "#CFC8BC50",
-    "scrollbarSlider.hoverBackground": "#B5AFA580",
-    "scrollbarSlider.activeBackground": "#7A746AA0",
+    "scrollbarSlider.background": "#CBC4B850",
+    "scrollbarSlider.hoverBackground": "#B5AEA280",
+    "scrollbarSlider.activeBackground": "#78736AA0",
 
     // ── 브레드크럼 ──
-    "breadcrumb.background": "#FAF9F6",
-    "breadcrumb.foreground": "#7A746A",
+    "breadcrumb.background": "#F5F0E8",
+    "breadcrumb.foreground": "#78736A",
     "breadcrumb.focusForeground": "#D97757",
-    "breadcrumb.activeSelectionForeground": "#3D3935",
+    "breadcrumb.activeSelectionForeground": "#3D3A34",
 
     // ── 피크 뷰 ──
-    "peekViewEditor.background": "#F5F3EE",
-    "peekViewResult.background": "#F0EDE8",
-    "peekViewTitle.background": "#E6E3DC",
+    "peekViewEditor.background": "#F0ECE3",
+    "peekViewResult.background": "#ECE7DE",
+    "peekViewTitle.background": "#E2DDD3",
     "peekView.border": "#D97757",
 
     // ── 뱃지 / 알림 ──
     "badge.background": "#D97757",
     "badge.foreground": "#FFFFFF",
-    "notificationCenterHeader.background": "#E6E3DC",
-    "notifications.background": "#FAF9F6",
-    "notifications.border": "#E3DFD8",
+    "notificationCenterHeader.background": "#E2DDD3",
+    "notifications.background": "#F5F0E8",
+    "notifications.border": "#DDD8CE",
 
     // ── 기타 UI ──
     "focusBorder": "#D9775780",
-    "widget.border": "#E3DFD8",
-    "widget.shadow": "#1A191510",
-    "minimap.background": "#F5F3EE",
-    "selection.background": "#E5DDD1",
+    "widget.border": "#DDD8CE",
+    "widget.shadow": "#2D2B2610",
+    "minimap.background": "#F0ECE3",
+    "selection.background": "#DED6C8",
     "textLink.foreground": "#D97757",
     "textLink.activeForeground": "#C96847",
     "progressBar.background": "#D97757",
-    "debugToolBar.background": "#F0EDE8",
-    "debugToolBar.border": "#E3DFD8",
+    "debugToolBar.background": "#ECE7DE",
+    "debugToolBar.border": "#DDD8CE",
 
     // ── Git 장식 ──
     "gitDecoration.addedResourceForeground": "#6B8E4A",
     "gitDecoration.modifiedResourceForeground": "#C28B3A",
     "gitDecoration.deletedResourceForeground": "#C04535",
     "gitDecoration.untrackedResourceForeground": "#5A7E8E",
-    "gitDecoration.ignoredResourceForeground": "#B5AFA5",
+    "gitDecoration.ignoredResourceForeground": "#B5AEA2",
     "gitDecoration.conflictingResourceForeground": "#D97757",
 
     // ── 에디터 위젯 ──
-    "editorWidget.background": "#F5F3EE",
-    "editorWidget.border": "#E3DFD8",
-    "editorSuggestWidget.background": "#FAF9F6",
-    "editorSuggestWidget.border": "#E3DFD8",
-    "editorSuggestWidget.selectedBackground": "#E5DDD1",
+    "editorWidget.background": "#F0ECE3",
+    "editorWidget.border": "#DDD8CE",
+    "editorSuggestWidget.background": "#F5F0E8",
+    "editorSuggestWidget.border": "#DDD8CE",
+    "editorSuggestWidget.selectedBackground": "#DED6C8",
     "editorSuggestWidget.highlightForeground": "#D97757",
-    "editorHoverWidget.background": "#FAF9F6",
-    "editorHoverWidget.border": "#E3DFD8",
+    "editorHoverWidget.background": "#F5F0E8",
+    "editorHoverWidget.border": "#DDD8CE",
 
     // ── 괄호 쌍 색상화 ──
     "editorBracketHighlight.foreground1": "#D97757",
@@ -185,24 +185,24 @@
     "editorBracketHighlight.foreground6": "#956D3A",
 
     // ── 커맨드 팔레트 ──
-    "quickInput.background": "#FAF9F6",
-    "quickInput.foreground": "#1A1915",
-    "quickInputList.focusBackground": "#E5DDD1",
-    "quickInputList.focusForeground": "#1A1915",
-    "commandCenter.background": "#F0EDE8",
-    "commandCenter.foreground": "#5C5650",
-    "commandCenter.border": "#E3DFD8",
+    "quickInput.background": "#F5F0E8",
+    "quickInput.foreground": "#2D2B26",
+    "quickInputList.focusBackground": "#DED6C8",
+    "quickInputList.focusForeground": "#2D2B26",
+    "commandCenter.background": "#ECE7DE",
+    "commandCenter.foreground": "#5C5852",
+    "commandCenter.border": "#DDD8CE",
     "commandCenter.activeBorder": "#D97757",
 
     // ── 설정 에디터 ──
-    "settings.headerForeground": "#3D3935",
+    "settings.headerForeground": "#3D3A34",
     "settings.modifiedItemIndicator": "#D97757",
-    "settings.checkboxBackground": "#FFFFFF",
-    "settings.checkboxBorder": "#DDD9D1",
-    "settings.textInputBackground": "#FFFFFF",
-    "settings.textInputBorder": "#DDD9D1",
-    "settings.numberInputBackground": "#FFFFFF",
-    "settings.numberInputBorder": "#DDD9D1"
+    "settings.checkboxBackground": "#FAF8F4",
+    "settings.checkboxBorder": "#D8D2C8",
+    "settings.textInputBackground": "#FAF8F4",
+    "settings.textInputBorder": "#D8D2C8",
+    "settings.numberInputBackground": "#FAF8F4",
+    "settings.numberInputBorder": "#D8D2C8"
   },
 
   "tokenColors": [
@@ -211,7 +211,7 @@
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#A39D93",
+        "foreground": "#A29C92",
         "fontStyle": "italic"
       }
     },
@@ -224,12 +224,12 @@
         "punctuation.definition.block.tag.jsdoc"
       ],
       "settings": {
-        "foreground": "#B5AFA5",
+        "foreground": "#B5AEA2",
         "fontStyle": "italic"
       }
     },
 
-    // ── 키워드 ──
+    // ── 키워드 (Claude 코드블록의 보라/파랑 계열) ──
     {
       "name": "Keyword",
       "scope": [
@@ -243,7 +243,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#C2582A"
+        "foreground": "#9A5EB8"
       }
     },
     {
@@ -258,12 +258,12 @@
         "keyword.control.from"
       ],
       "settings": {
-        "foreground": "#C2582A",
+        "foreground": "#9A5EB8",
         "fontStyle": "italic"
       }
     },
 
-    // ── 문자열 ──
+    // ── 문자열 (Claude의 녹색) ──
     {
       "name": "String",
       "scope": [
@@ -272,14 +272,14 @@
         "string.template"
       ],
       "settings": {
-        "foreground": "#697D45"
+        "foreground": "#5A8C4E"
       }
     },
     {
       "name": "String escape",
       "scope": ["constant.character.escape"],
       "settings": {
-        "foreground": "#8B9E5A"
+        "foreground": "#7AA06A"
       }
     },
     {
@@ -289,11 +289,11 @@
         "punctuation.definition.template-expression.end"
       ],
       "settings": {
-        "foreground": "#C2582A"
+        "foreground": "#9A5EB8"
       }
     },
 
-    // ── 숫자·상수·불리언 ──
+    // ── 숫자·상수·불리언 (Claude의 진한 주황/갈색) ──
     {
       "name": "Number",
       "scope": ["constant.numeric"],
@@ -320,7 +320,7 @@
       }
     },
 
-    // ── 함수 ──
+    // ── 함수 (Claude의 파란 계열) ──
     {
       "name": "Function name",
       "scope": [
@@ -329,7 +329,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#956D3A"
+        "foreground": "#3D7EAA"
       }
     },
     {
@@ -339,14 +339,14 @@
         "meta.function-call support.function"
       ],
       "settings": {
-        "foreground": "#956D3A"
+        "foreground": "#3D7EAA"
       }
     },
     {
       "name": "Function parameter",
       "scope": ["variable.parameter", "meta.parameter"],
       "settings": {
-        "foreground": "#5C5650",
+        "foreground": "#5C5852",
         "fontStyle": "italic"
       }
     },
@@ -354,11 +354,11 @@
       "name": "Arrow function",
       "scope": ["storage.type.function.arrow"],
       "settings": {
-        "foreground": "#C2582A"
+        "foreground": "#9A5EB8"
       }
     },
 
-    // ── 타입·클래스 ──
+    // ── 타입·클래스 (Claude의 청록 계열) ──
     {
       "name": "Type",
       "scope": [
@@ -371,21 +371,21 @@
         "entity.name.type.module"
       ],
       "settings": {
-        "foreground": "#7D6499"
+        "foreground": "#2E8B8B"
       }
     },
     {
       "name": "Class name",
       "scope": ["entity.name.type.class", "entity.other.inherited-class"],
       "settings": {
-        "foreground": "#7D6499"
+        "foreground": "#2E8B8B"
       }
     },
     {
       "name": "Type parameter (generic)",
       "scope": ["entity.name.type.parameter"],
       "settings": {
-        "foreground": "#8E7EAA"
+        "foreground": "#3DA0A0"
       }
     },
 
@@ -398,7 +398,7 @@
         "variable.other.readwrite"
       ],
       "settings": {
-        "foreground": "#3D3935"
+        "foreground": "#2D2B26"
       }
     },
     {
@@ -420,7 +420,7 @@
         "variable.language.super"
       ],
       "settings": {
-        "foreground": "#C2582A",
+        "foreground": "#9A5EB8",
         "fontStyle": "italic"
       }
     },
@@ -437,7 +437,7 @@
         "keyword.operator.ternary"
       ],
       "settings": {
-        "foreground": "#7A746A"
+        "foreground": "#78736A"
       }
     },
     {
@@ -448,7 +448,7 @@
         "meta.brace"
       ],
       "settings": {
-        "foreground": "#7A746A"
+        "foreground": "#78736A"
       }
     },
     {
@@ -459,7 +459,7 @@
         "punctuation.section"
       ],
       "settings": {
-        "foreground": "#5C5650"
+        "foreground": "#5C5852"
       }
     },
 
@@ -472,7 +472,7 @@
         "punctuation.decorator"
       ],
       "settings": {
-        "foreground": "#8E6E99",
+        "foreground": "#9A5EB8",
         "fontStyle": "italic"
       }
     },
@@ -492,14 +492,14 @@
       "name": "HTML Component (PascalCase)",
       "scope": ["support.class.component"],
       "settings": {
-        "foreground": "#7D6499"
+        "foreground": "#2E8B8B"
       }
     },
     {
       "name": "HTML Attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#956D3A",
+        "foreground": "#D97757",
         "fontStyle": "italic"
       }
     },
@@ -510,7 +510,7 @@
         "string.quoted.single.html"
       ],
       "settings": {
-        "foreground": "#697D45"
+        "foreground": "#5A8C4E"
       }
     },
 
@@ -519,7 +519,7 @@
       "name": "CSS Property",
       "scope": ["support.type.property-name.css"],
       "settings": {
-        "foreground": "#6E5B47"
+        "foreground": "#3D7EAA"
       }
     },
     {
@@ -539,7 +539,7 @@
         "entity.other.attribute-name.id.css"
       ],
       "settings": {
-        "foreground": "#956D3A"
+        "foreground": "#D97757"
       }
     },
     {
@@ -556,7 +556,7 @@
         "entity.other.attribute-name.pseudo-element.css"
       ],
       "settings": {
-        "foreground": "#8E6E99"
+        "foreground": "#9A5EB8"
       }
     },
     {
@@ -572,14 +572,14 @@
       "name": "JSON Key",
       "scope": ["support.type.property-name.json"],
       "settings": {
-        "foreground": "#6E5B47"
+        "foreground": "#3D7EAA"
       }
     },
     {
       "name": "JSON String Value",
       "scope": ["string.quoted.double.json"],
       "settings": {
-        "foreground": "#697D45"
+        "foreground": "#5A8C4E"
       }
     },
 
@@ -600,7 +600,7 @@
       "name": "Markdown Bold",
       "scope": ["markup.bold"],
       "settings": {
-        "foreground": "#3D3935",
+        "foreground": "#2D2B26",
         "fontStyle": "bold"
       }
     },
@@ -608,7 +608,7 @@
       "name": "Markdown Italic",
       "scope": ["markup.italic"],
       "settings": {
-        "foreground": "#5C5650",
+        "foreground": "#5C5852",
         "fontStyle": "italic"
       }
     },
@@ -629,7 +629,7 @@
         "markup.fenced_code.block"
       ],
       "settings": {
-        "foreground": "#956D3A"
+        "foreground": "#C2582A"
       }
     },
     {
@@ -643,7 +643,7 @@
       "name": "Markdown Quote",
       "scope": ["markup.quote.markdown"],
       "settings": {
-        "foreground": "#A39D93",
+        "foreground": "#A29C92",
         "fontStyle": "italic"
       }
     },
@@ -667,7 +667,7 @@
         "keyword.operator.or.regexp"
       ],
       "settings": {
-        "foreground": "#8E6E99"
+        "foreground": "#9A5EB8"
       }
     },
     {
@@ -681,12 +681,12 @@
       }
     },
 
-    // ── SQL (백엔드에서 자주 사용) ──
+    // ── SQL ──
     {
       "name": "SQL Keyword",
       "scope": ["keyword.other.sql", "keyword.other.DML.sql", "keyword.other.DDL.sql"],
       "settings": {
-        "foreground": "#C2582A"
+        "foreground": "#9A5EB8"
       }
     },
 
@@ -698,7 +698,7 @@
         "support.type.primitive"
       ],
       "settings": {
-        "foreground": "#5A7E8E"
+        "foreground": "#2E8B8B"
       }
     },
     {
@@ -709,7 +709,7 @@
         "variable.other.readwrite.alias"
       ],
       "settings": {
-        "foreground": "#7D6499"
+        "foreground": "#2E8B8B"
       }
     },
 
@@ -718,7 +718,7 @@
       "name": "Import source / module specifier",
       "scope": ["string.quoted.module", "meta.import string"],
       "settings": {
-        "foreground": "#697D45"
+        "foreground": "#5A8C4E"
       }
     },
 
@@ -748,28 +748,28 @@
 
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "namespace": "#7D6499",
-    "type": "#7D6499",
-    "type.declaration": "#7D6499",
-    "class": "#7D6499",
-    "class.declaration": "#7D6499",
-    "interface": "#7D6499",
-    "interface.declaration": "#7D6499",
-    "enum": "#7D6499",
-    "enum.declaration": "#7D6499",
-    "typeParameter": "#8E7EAA",
-    "function": "#956D3A",
-    "function.declaration": "#956D3A",
-    "method": "#956D3A",
-    "method.declaration": "#956D3A",
+    "namespace": "#2E8B8B",
+    "type": "#2E8B8B",
+    "type.declaration": "#2E8B8B",
+    "class": "#2E8B8B",
+    "class.declaration": "#2E8B8B",
+    "interface": "#2E8B8B",
+    "interface.declaration": "#2E8B8B",
+    "enum": "#2E8B8B",
+    "enum.declaration": "#2E8B8B",
+    "typeParameter": "#3DA0A0",
+    "function": "#3D7EAA",
+    "function.declaration": "#3D7EAA",
+    "method": "#3D7EAA",
+    "method.declaration": "#3D7EAA",
     "property": "#6E5B47",
     "property.declaration": "#6E5B47",
-    "variable": "#3D3935",
-    "variable.declaration": "#3D3935",
-    "variable.readonly": "#3D3935",
-    "variable.defaultLibrary": "#5A7E8E",
-    "parameter": { "foreground": "#5C5650", "italic": true },
+    "variable": "#2D2B26",
+    "variable.declaration": "#2D2B26",
+    "variable.readonly": "#2D2B26",
+    "variable.defaultLibrary": "#2E8B8B",
+    "parameter": { "foreground": "#5C5852", "italic": true },
     "enumMember": "#B35430",
-    "decorator": { "foreground": "#8E6E99", "italic": true }
+    "decorator": { "foreground": "#9A5EB8", "italic": true }
   }
 }
