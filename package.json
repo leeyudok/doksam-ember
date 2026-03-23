@@ -1,6 +1,6 @@
 {
   "name": "doksam-ember",
-  "displayName": "Doksam Ember",
+  "displayName": "doksam Ember",
   "description": "A soothing, warm earthy color theme — terracotta accents on a cream canvas, inspired by natural clay tones.",
   "version": "0.3.0",
   "publisher": "doksam",
@@ -16,22 +16,23 @@
   "contributes": {
     "themes": [
       {
-        "label": "Doksam Ember",
+        "label": "doksam Ember",
         "uiTheme": "vs",
         "path": "./themes/doksam-ember-color-theme.json"
       },
       {
-        "label": "Doksam Ember Light",
+        "label": "doksam Ember Light",
         "uiTheme": "vs",
         "path": "./themes/doksam-ember-light-color-theme.json"
       },
       {
-        "label": "Doksam Ember Dark",
+        "label": "doksam Ember Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/doksam-ember-dark-color-theme.json"
       }
     ]
   },
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/leeyudok/doksam-ember"
