@@ -1,4 +1,4 @@
-# Doksam Ember
+# doksam Ember
 
 따뜻하고 자연스러운 색감의 VSCode 테마.
 테라코타 악센트와 크림 캔버스 위에 자연의 흙빛 톤을 담았습니다.
@@ -11,9 +11,9 @@
 
 | 모드 | 설명 |
 |------|------|
-| **Doksam Ember** | 기본. 크림 배경 + 따뜻한 UI |
-| **Doksam Ember Light** | 밝은 변형. 순백 배경 + 선명한 악센트 |
-| **Doksam Ember Dark** | 어두운 변형. 웜 다크 배경 + 부드러운 구문 강조 |
+| **doksam Ember** | 기본. 크림 배경 + 따뜻한 UI |
+| **doksam Ember Light** | 밝은 변형. 순백 배경 + 선명한 악센트 |
+| **doksam Ember Dark** | 어두운 변형. 웜 다크 배경 + 부드러운 구문 강조 |
 
 ---
 
@@ -81,7 +81,7 @@ vsce package
 ### 테마 적용
 
 ```
-Ctrl+Shift+P → "Color Theme" → "Doksam Ember" 선택
+Ctrl+Shift+P → "Color Theme" → "doksam Ember" 선택
 ```
 
 ---
