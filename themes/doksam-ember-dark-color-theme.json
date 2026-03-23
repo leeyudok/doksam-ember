@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Doksam Ember Dark",
+  "name": "doksam Ember Dark",
   "type": "dark",
   "colors": {
     // ── 에디터 ──
