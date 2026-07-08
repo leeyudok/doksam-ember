@@ -202,7 +202,42 @@
     "settings.textInputBackground": "#FFFFFF",
     "settings.textInputBorder": "#E5E1DA",
     "settings.numberInputBackground": "#FFFFFF",
-    "settings.numberInputBorder": "#E5E1DA"
+    "settings.numberInputBorder": "#E5E1DA",
+
+    // ── 스티키 스크롤 (VSCode 1.70+) ──
+    "editorStickyScroll.background": "#F5F3EE",
+    "editorStickyScroll.border": "#EBE7E0",
+    "editorStickyScroll.shadow": "#1A191518",
+    "editorStickyScrollHover.background": "#EFECE6",
+
+    // ── 인레이 힌트 (VSCode 1.67+) ──
+    "editorInlayHint.background": "#EDE9E340",
+    "editorInlayHint.foreground": "#B5AFA5",
+    "editorInlayHint.typeForeground": "#7058A0",
+    "editorInlayHint.parameterForeground": "#5E4D3A",
+
+    // ── 인라인 제안 / 고스트 텍스트 ──
+    "editorGhostText.foreground": "#C5BFB5",
+
+    // ── 메뉴 ──
+    "menu.background": "#FFFFFF",
+    "menu.foreground": "#3D3935",
+    "menu.border": "#EBE7E0",
+    "menu.selectionBackground": "#E8DFD2",
+    "menu.selectionForeground": "#1A1915",
+    "menu.separatorBackground": "#EBE7E0",
+    "menubar.selectionBackground": "#EFECE6",
+    "menubar.selectionForeground": "#1A1915",
+
+    // ── 키 바인딩 라벨 ──
+    "keybindingLabel.background": "#EFECE6",
+    "keybindingLabel.foreground": "#5C5650",
+    "keybindingLabel.border": "#EBE7E0",
+    "keybindingLabel.bottomBorder": "#DDD8CF",
+
+    // ── 툴바 ──
+    "toolbar.hoverBackground": "#EFECE6",
+    "toolbar.activeBackground": "#E8DFD2"
   },
 
   "tokenColors": [
