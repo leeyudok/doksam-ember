@@ -75,7 +75,7 @@ cd doksam-ember
 vsce package
 
 # 2. VSCode에서 설치
-# Ctrl+Shift+P → "Extensions: Install from VSIX" → doksam-ember-0.3.0.vsix 선택
+# Ctrl+Shift+P → "Extensions: Install from VSIX" → doksam-ember-0.4.0.vsix 선택
 ```
 
 ### 테마 적용
